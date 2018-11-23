@@ -1,0 +1,34 @@
+{
+  "users": [{
+      "id": 1,
+      "name": "huy.ngo",
+      "email": "huy.quang.ngo@mowede.com",
+      "password": "huy123"
+    },
+    {
+      "id": 2,
+      "name": "thien.kieu",
+      "email": "thien.kieu@mowede.com",
+      "password": "thien"
+    },
+    {
+      "id": 3,
+      "name": "vinh.nguyen",
+      "email": "vinh.nguyen@mowede.com",
+      "password": "vinh"
+    },
+    {
+      "id": 3,
+      "name": "abc",
+      "email": "abc@mowede.com",
+      "password": "abc"
+    }
+  ],
+  "products": [
+    {
+      "id": "product1",
+      "name":"chao chong dinh",
+      "description":"chao chong dinh"
+    }
+  ]
+}
